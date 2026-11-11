@@ -1,0 +1,6 @@
+{
+  "name": "FirstCustomer",
+  "description": "Validate your business idea before you build. Free, open-source customer research, competitor analysis, and evidence validation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
